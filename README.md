@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CHANDAN LAKHARA</h1>
 <h3 align="center">WEB DEVELOPER {HTML,CSS,JS,REAT}</h3>
 
-    <img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" alt="">
+<img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" alt="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chan9610&label=Profile%20views&color=0e75b6&style=flat" alt="chan9610" /> </p>
